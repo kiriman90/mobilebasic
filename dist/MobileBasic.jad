@@ -1,7 +1,8 @@
-MIDlet-Jar-Size: 206675
+MIDlet-1: Main,/res/icon.png,mobilebasic.Main
+MIDlet-Jar-Size: 117954
 MIDlet-Jar-URL: MobileBasic.jar
 MIDlet-Name: MobileBasic
-MIDlet-Vendor: Vendor
-MIDlet-Version: 1.0
+MIDlet-Vendor: kiriman
+MIDlet-Version: 1.9.1
 MicroEdition-Configuration: CLDC-1.1
 MicroEdition-Profile: MIDP-2.0
