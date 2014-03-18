@@ -1,0 +1,25 @@
+Математ. функции
+
+ABS(X) - |x|
+
+SQR(X) - x^0.5
+
+RND(0) - случайное число (32b)
+
+LOG(X) - ln x
+
+EXP(X) - e^x
+
+MOD(A,B) - остаток a/b
+
+SIN(A) - sin a
+
+COS(A) - cos a
+
+TAN(A) - tg a
+
+ASIN(X) - arcsin x
+
+ACOS(X) - arccos x
+
+ATAN(X) - arctg x
