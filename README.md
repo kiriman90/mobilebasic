@@ -6,4 +6,5 @@ mobilebasic 1.9.1 (MOD)
 
 * В папке src/lib/ находятся классы для сборки мидлета средой разработки!
 https://github.com/kiriman90/mobilebasic_runtime
+* В папке HelpBin/ лежит утилита для создания файла справки(res/help.bin)
 
