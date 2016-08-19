@@ -86,7 +86,6 @@ public class BasicCanvas extends Canvas implements Runnable {
         var_6d4 = 0L;
         chArray = new char[1];
         setFullScreenMode(Settings.m_fullScreenZ);
-        //setFullScreenMode(main.getAppProperty("FullScreenMode").equals("true") ? true : false);
         widthInPixels = getWidth();
         heightInPixels = getHeight();
         graphicsImage = Image.createImage(widthInPixels, heightInPixels);
